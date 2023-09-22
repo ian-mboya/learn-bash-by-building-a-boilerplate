@@ -38,3 +38,4 @@ clear
 ls --color=auto
 more node_modules
 cd node_modules
+ls --color=auto
