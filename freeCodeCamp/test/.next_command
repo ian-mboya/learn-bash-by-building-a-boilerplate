@@ -49,3 +49,4 @@ ls --color=auto
 more LECENSE-MIT
 more LICENSE-MIT
 clear
+ls --color=auto
