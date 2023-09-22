@@ -151,3 +151,4 @@ ls --color=auto
 ls --color=auto -l
 ls --color=auto
 find
+rmdir images
